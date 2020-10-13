@@ -8,13 +8,17 @@ body{
     color: white;
 }
 
-body,input,button,textarea{
-    font-weight: 400;
-    
+:root{
+    font-size: 65.5%;
 }
 
-#page-landing{
-    text-align: center;
-    background: linear-gradient(352.29deg, #29b6d1 0%, #00c7c7 100%);
-    min-height: 100vh;
+body,input,button,textarea{
+    font: 400 1.8rem/1 'Nunito', sans-serif;
+
 }
+
+
+
+
+
+
