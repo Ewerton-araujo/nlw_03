@@ -14,7 +14,7 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js]<a target="_blank" href="(https://nodejs.org/en/)"><a>
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [handlebars](https://handlebarsjs.com/)
@@ -34,9 +34,6 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
